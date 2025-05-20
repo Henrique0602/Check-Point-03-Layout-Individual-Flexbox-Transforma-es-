@@ -16,6 +16,7 @@ Henrique Farah Brigo
 
 -  Repositório GitHub: [https://github.com/usuario/repositorio-checkpoint03](https://github.com/Henrique0602/Check-Point-03-Layout-Individual-Flexbox-Transforma-es-)
 -  GitHub Pages: [https://usuario.github.io/repositorio-checkpoint03](https://henrique0602.github.io/Check-Point-03-Layout-Individual-Flexbox-Transforma-es-/)
+-  "Professor, nao sei oque aconteceu, mas para acessar o site, precisa clicar no link azul que quando abre o README aparece ele, como o nome do Projeto. Assim ele vai para o site"
 
 ---
 

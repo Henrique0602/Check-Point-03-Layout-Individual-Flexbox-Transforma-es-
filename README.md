@@ -49,7 +49,7 @@ Utilizado para estruturar e alinhar elementos em:
 ```bash
 checkpoint03-flexbox/
 │
-├── flex-layout.html
+├── index.html
 ├── README.md
 └── css/
     └── flex-style.css

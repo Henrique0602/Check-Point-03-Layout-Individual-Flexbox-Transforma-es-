@@ -15,7 +15,7 @@ Henrique Farah Brigo
 ## Links
 
 -  Repositório GitHub: [https://github.com/usuario/repositorio-checkpoint03](https://github.com/Henrique0602/Check-Point-03-Layout-Individual-Flexbox-Transforma-es-)
--  GitHub Pages: https://usuario.github.io/repositorio-checkpoint03
+-  GitHub Pages: [https://usuario.github.io/repositorio-checkpoint03](https://henrique0602.github.io/Check-Point-03-Layout-Individual-Flexbox-Transforma-es-/)
 
 ---
 
